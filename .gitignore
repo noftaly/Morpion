@@ -1,3 +1,4 @@
 .idea/*
 venv/*
 old_main.py
+.DS_Store
